@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  "123":
+  - apiVersion: v1
+    created: 2017-04-19T10:11:12.872778165+08:00
+    description: A Helm chart for Kubernetes
+    digest: 939e25e4453c2c11db0e271691fdbcec066ae3ef089c029dc13f229cb94ec5d6
+    name: "123"
+    urls:
+    - http://10.16.179.30:10260/charts/123-0.1.0.tgz
+    version: 0.1.0
+  abc:
+  - apiVersion: v1
+    created: 2017-04-19T10:11:12.873841584+08:00
+    description: A Helm chart for Kubernetes
+    digest: 3b549a4a45459cf4660453b47007a3f271ad3a4300ed77841aec4b910f594920
+    name: abc
+    urls:
+    - http://10.16.179.30:10260/charts/abc-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-04-19T10:11:12.871486625+08:00
