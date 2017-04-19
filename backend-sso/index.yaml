@@ -7,7 +7,7 @@ entries:
     digest: 939e25e4453c2c11db0e271691fdbcec066ae3ef089c029dc13f229cb94ec5d6
     name: "123"
     urls:
-    - https://github.com/mixaceh/charts/backend-sso/123-0.1.0.tgz
+    - https://github.com/mixaceh/charts/tree/master/backend-sso/123-0.1.0.tgz
     version: 0.1.0
   abc:
   - apiVersion: v1
@@ -16,6 +16,6 @@ entries:
     digest: 3b549a4a45459cf4660453b47007a3f271ad3a4300ed77841aec4b910f594920
     name: abc
     urls:
-    - https://github.com/mixaceh/charts/backend-sso/abc-0.1.0.tgz
+    - https://github.com/mixaceh/charts/tree/master/backend-sso/abc-0.1.0.tgz
     version: 0.1.0
 generated: 2017-04-19T10:11:12.871486625+08:00
